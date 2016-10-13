@@ -1,7 +1,7 @@
 # gobbm
 go template for my go applications
 
-``sh
+```sh
 $ make bootstrap
 ...
 ```
