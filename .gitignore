@@ -22,3 +22,25 @@ _testmain.go
 *.exe
 *.test
 *.prof
+
+# Other dirs
+bin/
+pkg/
+
+# Vagrant
+.vagrant/
+Vagrantfile
+
+# Configs
+*.hcl
+
+.DS_Store
+.idea
+
+dist/*
+
+tags
+
+# Editor backups
+*~
+*.sw[a-z]

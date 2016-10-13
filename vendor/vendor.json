@@ -1,0 +1,11 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"path": "missing",
+			"revision": ""
+		}
+	],
+	"rootPath": "github.com/patdhlk/gobbm"
+}
